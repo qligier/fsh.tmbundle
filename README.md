@@ -7,9 +7,9 @@ A TextMate 2 Bundle for the [FSH](https://build.fhir.org/ig/HL7/fhir-shorthand/i
 ### JetBrains IDEs
 
 1. Download or clone this repository on your local machine.
-2. [Verify](https://www.jetbrains.com/help/idea/textmate.html#enable-the-plugin) that the plugin [TextMate Bundles]
-   (https://plugins.jetbrains.com/plugin/7221-textmate-bundles) is enabled in your JetBrains IDE (it should come 
-   pre-bundled).
+2. [Verify](https://www.jetbrains.com/help/idea/textmate.html#enable-the-plugin) that the plugin
+   [TextMate Bundles](https://plugins.jetbrains.com/plugin/7221-textmate-bundles) is installed and enabled in your 
+   JetBrains IDE (it should come pre-bundled).
 3. In `Settings → Editor → TextMate Bundles`,
    [import the bundle](https://www.jetbrains.com/help/idea/textmate.html#import-textmate-bundles) you downloaded at 
    step 1.
