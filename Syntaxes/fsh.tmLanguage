@@ -158,7 +158,7 @@
             <key>name</key>
             <string>keyword.reserved.fsh</string>
             <key>match</key>
-            <string>\b(?&lt;=\s|^)(and|codes|contains|descendent-of|exclude|exists|generalizes|include|in|is-a|is-not-a|named|not-in|or|regex|(?&lt;=\bfrom\s*)system|units|valueset|where|D|MS|N|SU|TU|\?!)(?=\s)\b</string>
+            <string>\b(?&lt;=\s|^)(and|codes|contains|descendent-of|exclude|exists|generalizes|include|in|is-a|is-not-a|named|not-in|or|regex|(?&gt;\bfrom\s*)system|units|valueset|where|D|MS|N|SU|TU|\?!)(?=\s)\b</string>
           </dict>
           <dict>
             <key>match</key>
