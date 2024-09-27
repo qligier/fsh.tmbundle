@@ -27,3 +27,8 @@ The `tmLanguage` file is converted from JSON to p-list using the [plist2](https:
 ```
 
 The `info.plist` file is handcrafted.
+
+## Changelog
+
+- 27/09/2024: [#1](https://github.com/qligier/fsh.tmbundle/issues/1) - Replaced a non-fixed width lookbehind with an atomic group
+- 21/03/2024: Initial release
