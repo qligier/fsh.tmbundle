@@ -30,5 +30,6 @@ The `info.plist` file is handcrafted.
 
 ## Changelog
 
+- 29/04/2025: [#2](https://github.com/qligier/fsh.tmbundle/issues/2) - Allowed aliases after some keywords
 - 27/09/2024: [#1](https://github.com/qligier/fsh.tmbundle/issues/1) - Replaced a non-fixed width lookbehind with an atomic group
 - 21/03/2024: Initial release
